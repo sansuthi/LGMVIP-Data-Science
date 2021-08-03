@@ -1,2 +1,1 @@
-# LGMVIP-Data-Science
-Data Science Internship @LetsGrowMore - August '21
+## _Data Science  Internship @LetsGrowMore - August '21_
