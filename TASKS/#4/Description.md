@@ -5,5 +5,5 @@
 * ### _Reference: [pencil-sketch-with-python](https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/)_
 ---
 ![](pencil_sketch.JPG)
-* ### _Implementation: [Image to Pencil Sketch with Python.ipynb](https://github.com/sansuthi/LGMVIP-Data-Science/blob/main/TASK%20%234/Task%20%234%20Image%20to%20Pencil%20Sketch%20with%20Python.ipynb)_
+* ### _Implementation: [Image to Pencil Sketch with Python.ipynb](Image%20to%20Pencil%20Sketch.ipynb)_
 ---
