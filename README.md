@@ -1,7 +1,7 @@
 ## _Data Science  Internship @LetsGrowMore - August '21_
-|        | Date | _Task_ |
+|        | _Task_ | _Date_ |
 | ------ | :----| :---------- |
-| _#4_ | _03 August '21_ | [_Image to Pencil Sketch with Python_](TASK%20%234) |
-| _#6_ | _05 August '21_ | [_Prediction using Decision Tree Algorithm_](TASK%20%236) |
+| _#4_ | [_Image to Pencil Sketch with Python_](TASKS/%234/Description.md) | _03 August_ |
+| _#6_ |  [_Prediction using Decision Tree Algorithm_](TASKS/%236/Description.md) | _05 August_ 
 ---
 
