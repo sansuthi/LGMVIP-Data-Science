@@ -6,4 +6,7 @@
 | _#6_ | [_Prediction using Decision Tree Algorithm_](TASKS/%236/Description.md) | _05 August_ 
 | _#7_ | [_MNIST Handwritten Digit Classification_](TASKS/%237/Description.md) | _12 August_ 
 ---
-
+_Welcome Letter_ |  _Completion Certificate_
+:-----------------------:|:-------------------------:
+<img src="Certificates/WelcomeLetter.jpg" width="60%" height="60%">| ![](Certificates/Certificate.png)
+---
