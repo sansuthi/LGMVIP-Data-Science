@@ -5,5 +5,4 @@
 >  _Dataset Link : http://archive.ics.uci.edu/ml/datasets/Iris_
 * ### _Dataset : [iris.csv](iris.csv)_
 * ### _Implementation: [Iris Flower Classification.ipynb](Iris%20Flower%20Classification.ipynb)_
-* ### _LinkedIn Post: [Link](https://www.linkedin.com/posts/sansuthi_lgmvipaug21-internship-letsgrowmore-activity-6830406133757341696-iG3m/)_
 ---
